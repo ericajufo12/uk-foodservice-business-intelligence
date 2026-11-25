@@ -333,7 +333,7 @@ The findings are intended for historical business intelligence analysis and shou
 
 ## Author
 
-**Uche Dumzo-Ajufo**
+**Eric Ajufo**
 
 MSc Data Science | BEng Biomedical Engineering (First-Class Honours)
 
